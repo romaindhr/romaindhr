@@ -1,10 +1,11 @@
-## 🚀 About me
+## 🌐 About me
 
 ```yaml
   
   name: "Romain DUHAYER"
   age: "Born 1993 January 26th"
   location: "Paris, FRANCE (open to relocation)"
+  speak: "French and English"
 
   current_role: "Open to Work"
   aspiring_role: "Backend Developer / Software Engineer"
@@ -49,7 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🤖 Tools
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0939C5?style=for-the-badge)
@@ -59,3 +60,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+## 📫 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romain.duhayer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/romaindhr)
